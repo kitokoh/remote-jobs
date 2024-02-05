@@ -25,6 +25,7 @@ Name | Website | Region
 [Acivilate](/company-profiles/acivilate.md) | https://acivilate.com/ | USA
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 [ActiveCampaign](/company-profiles/activecampaign.md) | https://www.activecampaign.com/ | Dublin, Ireland; USA
+[Africa Novatech](/company-profiles/africa-novatech.md) | https://www.africanovatech.com/ | Africa - Gabon
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
 [Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
 [AddStructure](/company-profiles/addstructure.md)| https://www.bazaarvoice.com/ | USA
